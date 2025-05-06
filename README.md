@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello universe🌌✨
 
 <!--
 **DePram/DePram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub profile! My name Dewa Prameshwara and i'am a beginner programmer👩‍💻.
+
+- 🌱 I’m currently learning JavaScript
+- 🤔 I’m looking for help with static website
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've been curious about technology🤖
+
+### 🌐 Socials:
+
+- 📫 How to reach me: [Instagram](https://www.instagram.com/dewa.prameshwara?igsh=cjZpeHptdHN3dDFu)
+
+🦅⚡
