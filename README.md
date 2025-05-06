@@ -26,4 +26,5 @@ Welcome to my GitHub profile! My name Dewa Prameshwara and i'am a beginner progr
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/dewa.prameshwara?igsh=cjZpeHptdHN3dDFu)
 
-🦅⚡
+> Lead like a wolf, guiding like a stars
+> 🐺⭐
