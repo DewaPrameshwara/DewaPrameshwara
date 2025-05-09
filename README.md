@@ -19,5 +19,18 @@ Welcome to my GitHub profile! My name Dewa Prameshwara and i'am a beginner progr
 
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"> <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
+### 📊 See My Stats
+![Prameshwara's Github Stats](https://github-readme-stats.vercel.app/api?username=DewaPrameshwara&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DewaPrameshwara&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DewaPrameshwara&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 My Top Contributed Repo
+![Prameshwara's Github Contributor Stats](https://github-contributor-stats.vercel.app/api?username=DewaPrameshwara&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![Prameshwara's Visited Count](https://visitcount.itsvg.in/api?id=DewaPrameshwara&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 > Lead like a wolf, guiding like a stars
 > 🐺⭐
