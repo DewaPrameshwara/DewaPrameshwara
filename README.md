@@ -28,7 +28,7 @@ Welcome to my GitHub profile! My name Dewa Prameshwara and i'am a beginner progr
 ![Prameshwara's Github Contributor Stats](https://github-contributor-stats.vercel.app/api?username=DewaPrameshwara&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![Prameshwara's Visited Count](https://visitcount.itsvg.in/api?id=DewaPrameshwara&icon=6&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DewaPrameshwara&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
