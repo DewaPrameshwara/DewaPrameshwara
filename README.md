@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! My name is Dewa Prameshwara and i'am a beginner programmer👩‍💻.
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 - 🤔 I’m looking for help with static website
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been curious about technology🤖
